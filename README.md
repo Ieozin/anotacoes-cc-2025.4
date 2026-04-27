@@ -1,14 +1,15 @@
-# 🎓 Diário de Bordo: Ciência da Computação (2025.4)
-**Estudante:** Leonardo | **Foco:** Revisão e Prática
+# 🎓 CC-2025.4 | Leonardo
+Minhas anotações, resumos e atividades do 2º semestre de Ciência da Computação (Estácio).
 
-## 📊 Status Geral
-| Disciplina | Status |
-| :--- | :---: |
-| 01 - Matemática e Lógica | 🟢 Concluído |
-| 02 - Desenvolvimento Web | 🟢 Concluído |
-| 03 - Banco de Dados      | 🟢 Concluído |
-| 04 - Arquitetura de Computadores | 🟢 Concluído |
-| 05 - Paradigmas (Python) | 🟢 Concluído |
+## 🚀 Matérias do Semestre
+
+| ID | Disciplina | Status |
+| :--- | :--- | :--- |
+| 01 | Matemática e Lógica | ✅ Concluída |
+| 02 | Desenvolvimento Web (HTML5, CSS3, JS, PHP) | ✅ Concluída |
+| 03 | Banco de Dados (PostgreSQL) | ✅ Concluída |
+| 04 | Arquitetura de Computadores | ✅ Concluída |
+| 05 | Paradigmas de Linguagem (Python/POO) | ✅ Concluída |
 
 ---
 
